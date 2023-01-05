@@ -1,4 +1,4 @@
-# badanaut.github.io
+# background-generator
 Background generator
 
 badanaut.github.io
